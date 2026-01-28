@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "Se você utilizar este biomarcador ou os conceitos deste preprint, cite-o conforme abaixo."
+authors:
+- family-names: "Damasceno Gouveia"
+  given-names: "Erick F."
+title: "Fundamentos de Resiliência Informacional do Biomarcador IRD: Uma Abordagem Invariante de Escala para a Vigilância Clínica Antecipatória"
+date-released: 2026-01-28
+url: "https://github.com/seu-usuario/IRD-Biomarker"
+notes: "Patente INPI 870260004287"
