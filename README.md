@@ -4,7 +4,6 @@ IRD: Biomarcador preditivo via Lei de Escala da Ação. Monitora PAM/FC para det
 
 **Vigilância Clínica Antecipatória Baseada em Leis de Escala**
 
-[![License](https://img.shields.io/badge/License-Creative%20Commons%20BY--NC--SA-orange.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 [![Status](https://img.shields.io/badge/Status-Preprint-blue.svg)]()
 
 ## 📌 Sobre o Projeto
